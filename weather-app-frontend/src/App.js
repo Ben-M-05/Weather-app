@@ -6,10 +6,6 @@ import Homepage from './homepage';
 
 
 function App() {
-  
-  
-   
-
   return (
     <BrowserRouter>
     <Route exact path="/results/:name" component={DataPage}/>

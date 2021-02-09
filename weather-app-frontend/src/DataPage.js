@@ -13,7 +13,7 @@ function DataPage(props){
         console.log(data.data)
         setData(data.data)
      })
-    })
+    }, [])
        
        
 

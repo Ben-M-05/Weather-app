@@ -1,5 +1,4 @@
 import {useState} from 'react';
-import Axios from 'axios'
 import {NavLink} from 'react-router-dom'
 
 function SearchWeather(props) {
