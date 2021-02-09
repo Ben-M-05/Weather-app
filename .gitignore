@@ -1,3 +1,4 @@
 /node_modules
 node_modules
 /weather-backend/.env
+./Weather-App/.vscode
